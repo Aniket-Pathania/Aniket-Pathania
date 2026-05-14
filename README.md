@@ -1,31 +1,24 @@
-# 👋 Hi, I'm Aniket
+# 👋 About Me:
 
-💻 Learning Java and Problem Solving
-
----
-
-## 🚀 Currently Working On
-
-- Java Fundamentals
-- Arrays
-- Problem Solving
-- Searching & Sorting
+Hi, I'm Aniket Pathania! 👋  
+I am a 1st Year student at MIT ADT University, Pune.  
+I'm a tech enthusiast currently learning Java Programming and Problem Solving.  
+Focused on improving coding skills and logic building through daily practice.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I'm Doing Now
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode" />
-</p>
+- Learning Java Fundamentals
+- Solving Array Problems
+- Practicing Searching & Sorting
+- Improving Problem Solving Skills
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Socials:
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniket-Pathania&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Pathania&layout=compact&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aniket-pathania-2999103a1/)
 
 ---
 
