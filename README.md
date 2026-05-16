@@ -22,7 +22,7 @@ Focused on improving coding skills and logic building through daily practice.
 
 ---
 
-## 🔥 Streak Stats.
+## 🔥 Streak Stats..
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aniket-Pathania&theme=tokyonight)
 
