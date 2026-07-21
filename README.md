@@ -14,7 +14,7 @@ Focused on improving coding skills and logic building through daily practice.
 - Practicing Searching & Sorting
 - Improving Problem Solving Skills
 
----.
+---
 
 ## 🌐 Socials:
 
