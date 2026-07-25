@@ -1,4 +1,4 @@
-# 💫 About Me:.
+# 💫 About Me:
 # Hi there 👋, I'm Aniket Pathania<br><br>🎓 2nd Year B.Tech Computer Science Student<br><br>I'm an aspiring Software Developer who enjoys learning by building projects and solving problems.<br><br>Currently, I'm focused on:<br><br>* ☕ Java<br>* 🧩 Data Structures & Algorithms<br>* 🌐 Backend Development (Node.js)<br><br>I believe in improving consistently, writing clean code, and sharing my learning journey through GitHub.<br><br>### Tech Stack<br><br>* Java<br>* JavaScript<br>* Node.js<br>* HTML<br>* Git & GitHub<br><br>> *"Consistency beats talent when talent isn't consistent."*<br>.
 
 
